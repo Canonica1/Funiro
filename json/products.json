@@ -7,7 +7,7 @@
             "title": "Grifo",
             "text": "Night lamp",
             "labels":"",
-            "image": "./image/products/Image 5.jpg",
+            "image": "./image/products/image 5.jpg",
             "price": "yeryerye",
             "priceOld": "",
             "shareUrl": "",
@@ -26,7 +26,7 @@
                     "value":"43\" "
                 }
             ],
-            "image": "./image/products/Image 6.jpg",
+            "image": "./image/products/image 6.jpg",
             "price": "Rp 150.000",
             "priceOld": "",
             "shareUrl": "",
@@ -45,7 +45,7 @@
                     "value":"-50%"
                 }
             ],
-            "image": "./image/products/Image 7.jpg",
+            "image": "./image/products/image 7.jpg",
             "price": "Rp 7.000.000",
             "priceOld": "Rp 14.000.000",
             "shareUrl": "",
@@ -64,7 +64,7 @@
                     "value":"New"
                 }
             ],
-            "image": "./image/products/Image 8.jpg",
+            "image": "./image/products/image 8.jpg",
             "price": "Rp 500.000",
             "priceOld": "",
             "shareUrl": "",
